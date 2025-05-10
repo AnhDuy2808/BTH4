@@ -12,7 +12,6 @@ namespace BTH4
         /// The main entry point for the application.
         /// </summary>
         [STAThread]
-        //hello
         static void Main()
         {
             Application.EnableVisualStyles();
